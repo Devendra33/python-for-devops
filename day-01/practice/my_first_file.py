@@ -36,3 +36,12 @@ print(type(y))
 # float 1.2  0.5 -2.3 
 # bool True False
 # str "this is string"
+
+
+
+
+
+
+
+
+# This is a comment in python
