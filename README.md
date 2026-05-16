@@ -120,7 +120,7 @@ Documenting my DevOps and Python automation journey through GitHub and LinkedIn.
 
 ## 🤝 Connect With Me
 
-* LinkedIn: https://www.linkedin.com/in/devendra-gohare/
+[View My LinkedIn Profile](https://www.linkedin.com/in/devendra-gohare/)
 
 ---
 
